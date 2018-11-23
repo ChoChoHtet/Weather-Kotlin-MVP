@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherKotlin</string>
+    <string name="city_name">Find by City Name</string>
+    <string name="search_city">Enter City Name</string>
+    <string name="search">Search</string>
+    <string name="error">City Not Found!!</string>
+</resources>
